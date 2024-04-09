@@ -6,5 +6,5 @@
 - 💼 Former Shift Lead - Cloud Engineer at Thales Digital Identity and Security Pvt. Ltd.
 - 🌱 Passionate about leveraging data to drive decision-making and improve operational efficiency.
 - 👨‍💻 Open to opportunities where I can contribute my skills in Data Analysis , Machine Learning and Cloud engineering starting June '24!
-- 📧 Feel free to reach out at rharit@ucdavis.edu or connect with me on [LinkedIn]- https://www.linkedin.com/in/rachita-harit-a322a4189/.
+- 📧 Feel free to reach out at rachitaharit99@gmail.com or connect with me on [LinkedIn]- https://www.linkedin.com/in/rachita-harit-a322a4189/.
 - ✨ Fun Fact: I love to try standup and Improv comedy in spare time.
