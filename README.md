@@ -19,12 +19,15 @@ Data Analyst with a knack for making sense of complex data through visual storyt
 - **Toolss**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) 
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) 
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=white) 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+  ![Macros](https://img.shields.io/badge/Macros-217346?style=flat&logo=microsoft-excel&logoColor=white)
+  ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+  ![VLOOKUP](https://img.shields.io/badge/VLOOKUP-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
 - Techniques: Regression (Linear, Logistic), Hypothesis testing, A/B testing, Clustering, Decision Trees, Support Vector Machines (SVM), XGBoost, Convolutional Neural Networks (CNN), Time Series Analysis
