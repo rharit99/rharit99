@@ -1,17 +1,17 @@
-Hey, I'm Rachita Harit!
+Hey, I'm Sadhanha!
+Business Analyst with a flair for making sense of complex data through storytelling
 📍 San Francisco, California
 
 
-Master of Science in Business Analytics candidate at UC Davis
-Graduating in June 2024. I bring over 3+ years of experience in data analysis, cloud engineering, and dashboard development.
 
+Skills: SQL, R, Python(NumPy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Pytorch, Keras)
 
+Tools: MS Excel(Pivot, VLookup, Macros), Tableau, GCP
 
-- Skills: Python, R, SQL, Tableau, AWS, Azure, CI/CD pipelines, Linux, Terraform, Power BI, Docker, Kubernetes
+Techniques: Regression (Linear, Logistic), Hypothesis testing, A/B testing, Clustering, Decision Trees, Support Vector Machines (SVM), XGBoost, Convolutional Neural Networks (CNN), Time Series Analysis
 
-- Specialized in: Exploratory Data Analysis, Public Cloud Platforms, Dashboard Development Lifecycle, Machine Learning
-- Former Position: Shift Lead - Cloud & DevOps Engineer at Thales Digital Identity and Security Pvt. Ltd.
-- Passionate about: Leveraging data to drive decision-making and improve operational efficiency
-✨ Fun Fact: I love to try standup and Improv comedy in my spare time.
+R mysql python git pandas scikit_learn opencv seaborn tensorflow git mongodb selenium springboot vuejs MS Office GCP
 
-📧 Feel free to reach out at rachitaharit99@gmail.com or connect with me on LinkedIn.
+Fun fact I have Abacus skills!
+
+You can reach me on sadhanha6.careers@gmail.com & www.linkedin.com/in/sadhanha
