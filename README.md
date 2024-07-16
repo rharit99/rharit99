@@ -1,6 +1,6 @@
 Hey, I'm Rachita Harit!
 
-Data Analyst with a knack for making sense of complex data through visual storytelling
+A Data Analyst with a knack for making sense of complex data through visual storytelling
 
 📍 San Francisco, California
 
