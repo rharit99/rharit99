@@ -1,11 +1,10 @@
 Hey, I'm Rachita Harit!
 
-A Data Analyst with a knack for making sense of complex data through visual storytelling
-
 📍 San Francisco, California
 
+A Data Analyst with a knack for making sense of complex data through visual storytelling
 
-
+👨‍💻 Master of Science graduate in Business Analytics candidate from UC Davis. I bring over 3+ years of experience in data analysis, cloud engineering, and dashboard development.
 
 - **Skills**:![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
              ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -16,7 +15,6 @@ A Data Analyst with a knack for making sense of complex data through visual stor
               ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
               ![Seaborn](https://img.shields.io/badge/Seaborn-4DB6AC?style=flat&logoColor=white) 
               ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-              
 
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
